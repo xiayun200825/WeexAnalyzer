@@ -7,7 +7,6 @@
 //
 
 #import "WXAViewControllerUtil.h"
-//#import <TBUIKit/TBNavigationController.h>
 
 @implementation WXAViewControllerUtil
 
